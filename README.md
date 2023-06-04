@@ -1,6 +1,6 @@
 - Hi, I’m @enasmolcic 🐙
-- Bioinformatics, University of Tübingen
-- currently unavailable
+- Bioinformatics BSc, University of Tübingen
+- Environmental Biotechnology, GUZ der Uni Tübingen
 
 <!---
 enasmolcic/enasmolcic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
